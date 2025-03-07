@@ -3,7 +3,7 @@
 Deverá criar os endpoints necessários para passar nos testes já escritos préviamente, sem adulterá-los, assim usando a metodologia TDD - Test Driven Development.
 
 ### Modelo de Domínio
-![diagrama](assets/diagram.png)
+![diagrama](assets/orm_model.png)
 
 ### Critérios de Correção
 - DELETE /cities/{id} deve retornar 404 Not Found quando id não existir;
